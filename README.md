@@ -1,46 +1,45 @@
-# Getting Started with Create React App
+## 1. Introdução
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sejam bem-vindos ao novo Projeto Data Lovers - **Rick and Morty!**
 
-## Available Scripts
+Fiz este projeto a 4 anos atrás quando estava estudando na Laboratória e este foi disparado, o projeto mais legal que eu fiz durante o curso. Dito isso, resolvi refazer utilizando linguagens que utilizo no meu dia a dia para prática e também para mostrar um pouco da minha evolução. Desta vez optei por um layout clean, pois o outro projeto tinha bastante informação hehe.
 
-In the project directory, you can run:
+Vou deixar o link do projeto anterior para que vejam a diferença, espero que aos seus olhos, o projeto de agora esteja um pouco melhor :D
 
-### `npm start`
+[** Data Lovers - Rick and Morty **](https://kellyalves87.github.io/SAP004-data-lovers/index.html)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 2. Sobre o Rick and Morty
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Para quem não conhece, **Rick and Morty** é uma série de animação adulto norte-americana de comédia e
+ficção científica criada por Justin Roiland e Dan Harmon para o bloco de programação noturno [**_Adult Swin_**](http://www.adultswim.com/streams)
+exibido aqui no Brasil através da plataforma de Streaming [**_Netflix_**](https://www.netflix.com/br/n/3SPHBNZT-1). 
 
-### `npm test`
+A história gira em torno de Rick, um cientista louco, excêntrico e alcoólatra, e seu neto inseguro e com 
+hormônios em ebulição Morty Smith, membros de uma família tipica americana, composta por Jerry, um pai
+ignorante; Beth, uma mãe sensata e Summer, a irmã mais velha, típica adolescente alienada, que se compadece do
+irmão quando passa a fazer parte das aventuras de seu avô. Entre planetas, universos, realidades paralelas, 
+problemas conjugais, e TV a cabo, **Rick and Morty** é uma série sobre a nossa insignificância perante a tudo o que existe.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 3. Tecnologias utilizadas no projeto
 
-### `npm run build`
+* React
+* Typescript
+* React Query
+* Sytled Components
+* Material UI
+* NodeJs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 4. Como instalar o projeto?
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm install
+```
+## 5. Como rodar o projeto?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm start
+```
 
-### `npm run eject`
+## 6. Autora
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [Kelly Alves](https://github.com/kellyalves87)
